@@ -1,0 +1,12 @@
+2025-05-19T16:32:55.324+09:00  INFO 58908 --- [Test worker] gAiMcpWeatherStdioServerApplicationTests : Starting SpringAiMcpWeatherStdioServerApplicationTests using Java 17.0.10 with PID 58908 (started by dongwook-kim in /Users/dongwook-kim/Desktop/Spring-AI-MCP-Weather-STDIO-Server/spring-ai-mcp-weather-stdio-server)
+2025-05-19T16:32:55.325+09:00  INFO 58908 --- [Test worker] gAiMcpWeatherStdioServerApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2025-05-19T16:32:55.684+09:00  INFO 58908 --- [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2, notification: true
+2025-05-19T16:32:55.720+09:00  INFO 58908 --- [Test worker] gAiMcpWeatherStdioServerApplicationTests : Started SpringAiMcpWeatherStdioServerApplicationTests in 0.503 seconds (process running for 0.914)
+2025-05-19T17:12:40.138+09:00  INFO 63442 --- [Test worker] gAiMcpWeatherStdioServerApplicationTests : Starting SpringAiMcpWeatherStdioServerApplicationTests using Java 17.0.10 with PID 63442 (started by dongwook-kim in /Users/dongwook-kim/Desktop/Spring-AI-MCP-Weather-STDIO-Server/spring-ai-mcp-weather-stdio-server)
+2025-05-19T17:12:40.139+09:00  INFO 63442 --- [Test worker] gAiMcpWeatherStdioServerApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2025-05-19T17:12:40.711+09:00  INFO 63442 --- [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2, notification: true
+2025-05-19T17:12:40.739+09:00  INFO 63442 --- [Test worker] gAiMcpWeatherStdioServerApplicationTests : Started SpringAiMcpWeatherStdioServerApplicationTests in 0.707 seconds (process running for 1.136)
+2025-05-19T17:13:08.237+09:00  INFO 63602 --- [Test worker] gAiMcpWeatherStdioServerApplicationTests : Starting SpringAiMcpWeatherStdioServerApplicationTests using Java 17.0.10 with PID 63602 (started by dongwook-kim in /Users/dongwook-kim/Desktop/Spring-AI-MCP-Weather-STDIO-Server/spring-ai-mcp-weather-stdio-server)
+2025-05-19T17:13:08.238+09:00  INFO 63602 --- [Test worker] gAiMcpWeatherStdioServerApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2025-05-19T17:13:08.616+09:00  INFO 63602 --- [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2, notification: true
+2025-05-19T17:13:08.655+09:00  INFO 63602 --- [Test worker] gAiMcpWeatherStdioServerApplicationTests : Started SpringAiMcpWeatherStdioServerApplicationTests in 0.531 seconds (process running for 0.945)
